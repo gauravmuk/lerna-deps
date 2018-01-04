@@ -1,0 +1,17 @@
+{
+  "name": "oneplus",
+  "version": "1.0.0",
+  "description": "",
+  "main": "index.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "publishConfig":{
+    "registry": "http://localhost:4873"
+  },
+  "author": "",
+  "license": "ISC",
+  "devDependencies": {
+    "lerna": "^2.5.1"
+  }
+}
