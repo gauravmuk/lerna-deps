@@ -1,7 +1,6 @@
 {
-  "name": "@oneplus/utils",
+  "name": "@test98765676/utils",
   "version": "0.1.7-0",
   "dependencies": {
-    "@oneplus/core": "^0.1.7-0"
   }
 }
